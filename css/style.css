@@ -175,10 +175,10 @@ footer {
     }
 
     .gambarpersegi{
-        justify-self: center;
+        text-align: center;
     }
 
     .gambarpersegipanjang{
-        justify-self: center;
+        text-align: center;
     }
 }
