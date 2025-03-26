@@ -172,4 +172,12 @@ footer {
     .calculator {
         flex-direction: column;
     }
+
+    .gambarpersegi{
+        justify-self: center;
+    }
+
+    .gambarpersegipanjang{
+        justify-self: center;
+    }
 }
